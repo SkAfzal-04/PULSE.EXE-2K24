@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from "react";
 import "./Members.css";
-import member1 from "../../members/Sk Mahammad Afzal.jpg";
+import member1 from "../../members/Sk Mahammad Afzal.jpeg";
 import member2 from "../../members/Arup Maity.jpeg";
 import member3 from "../../members/Sanchari Pandey.jpg";
 import member4 from "../../members/Avik Sen.jpeg";
@@ -9,15 +9,15 @@ import member6 from "../../members/Dipti Bhowmik.jpeg";
 import member7 from "../../members/Tiyasa Saha.jpeg";
 import member8 from "../../members/Arijit Karmakar.jpg";
 import member9 from "../../members/Ayan Saha.jpg";
-import member10 from "../../members/Meghna Si.jpg";
-import member11 from "../../members/Shreyan Chowdhury.jpg";
-import member12 from "../../members/Sanjana Shaw.jpg";
-import member13 from "../../members/Riya Karmakar.jpg";
-import member14 from "../../members/Deep Chakraborty.jpg";
-import member15 from "../../members/Supratim Dey.jpg";
-import member16 from "../../members/Kallol Mondal.jpg";
-import member17 from "../../members/Sayantan Karmakar.jpg";
-import member18 from "../../members/Avantika Roy.jpg";
+import member10 from "../../members/Hridhwesh Maity.jpg";
+import member11 from "../../members/Sreejit Chakraborty.jpg";
+import member12 from "../../members/Bishnu Bhakat.jpg";
+import member13 from "../../members/Sreya Dhar.jpg";
+import member14 from "../../members/Swarnendu Sikdar.jpg";
+import member15 from "../../members/Diptesh Ghosh.jpg";
+import member16 from "../../members/Sinchita Das.jpg";
+import member17 from "../../members/Sarthak Mukherjee.jpeg";
+
 
 const Members = () => {
   const membersArr = useMemo(
@@ -31,15 +31,15 @@ const Members = () => {
       { id: 7, name: "Tiyasa Saha", image: member7, whatsappLink: "https://wa.me/+919433077890" },
       { id: 8, name: "Arijit Karmakar", image: member8, whatsappLink: "https://wa.me/+919875347630" },
       { id: 9, name: "Ayan Saha", image: member9, whatsappLink: "https://wa.me/+916290107258" },
-      { id: 10, name: "Meghna Si", image: member10, whatsappLink: "https://wa.me/+919748638473" },
-      { id: 11, name: "Shreyan Pal Chowdhury", image: member11, whatsappLink: "https://wa.me/+918420231825" },
-      { id: 12, name: "Sanjana Shaw", image: member12, whatsappLink: "https://wa.me/+918240934380" },
-      { id: 13, name: "Riya Karmakar", image: member13, whatsappLink: "https://wa.me/+917602372605" },
-      { id: 14, name: "Deep Chakraborty", image: member14, whatsappLink: "https://wa.me/+916291907144" },
-      { id: 15, name: "Supratim De", image: member15, whatsappLink: "https://wa.me/+919330431771" },
-      { id: 16, name: "Kallol Mondal", image: member16, whatsappLink: "https://wa.me/+919064963090" },
-      { id: 17, name: "Sayantan Karmakar", image: member17, whatsappLink: "https://wa.me/+919875532517" },
-      { id: 18, name: "Avantika Roy", image: member18, whatsappLink: "https://wa.me/+916290755133" },
+      { id: 10, name: "Hridhwesh Maity", image: member10, whatsappLink: "https://wa.me/+917688085816" },
+      { id: 11, name: "Sreejit Chakraborty", image: member11, whatsappLink: "https://wa.me/+919831526476" },
+      { id: 12, name: "Bishnu Bhakat", image: member12, whatsappLink: "https://wa.me/+919330809352" },
+      { id: 13, name: "Sreya Dhar", image: member13, whatsappLink: "https://wa.me/+919748375528" },
+      { id: 14, name: "Swarnendu Sikdar", image: member14, whatsappLink: "https://wa.me/+916289769353" },
+      { id: 15, name: "Diptesh Ghosh", image: member15, whatsappLink: "https://wa.me/+917364949075" },
+      { id: 16, name: "Sinchita Das", image: member16, whatsappLink: "https://wa.me/+917003717607" },
+      { id: 17, name: "Sarthak Mukherjee", image: member17, whatsappLink: "https://wa.me/+917439499280" },
+      
     ],
     []
   );

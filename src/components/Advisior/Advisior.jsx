@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from "react";
 import "./Advisior.css";
-import member1 from "../../members/Anurag Banerjee (Medium).jpg";
+import member1 from "../../members/Sanjana Shaw.jpg";
 import member2 from "../../members/Anuska Kar.jpg";
 import member3 from "../../members/Pritha Biswas.jpg";
 import member4 from "../../members/Saikat Dey.jpg";
@@ -9,7 +9,7 @@ import member5 from "../../members/Srijit Sarkar.jpg";
 const Advisior = () => {
   const membersArr = useMemo(
     () => [
-      { id: 1, name: "Anurag Banerjee", image: member1, whatsappLink: "https://wa.me/+918777013696" },
+      { id: 1, name: "Sanjana Shaw", image: member1, whatsappLink: "https://wa.me/+918240934380" },
       { id: 2, name: "Anuska Kar", image: member2, whatsappLink: "https://wa.me/+919874702562" },
       { id: 3, name: "Pritha Biswas", image: member3, whatsappLink: "https://wa.me/+916290615502" },
       { id: 4, name: "Saikat Dey", image: member4, whatsappLink: "https://wa.me/+919434959513" },
