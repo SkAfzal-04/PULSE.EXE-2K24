@@ -1,6 +1,6 @@
 {
   "homepage": "https://SkAfzal-04.github.io/pulse.exe-2k24",
-  "name": "pulse2k23",
+  "name": "pulse2k24",
   "version": "1.0.0",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
@@ -50,8 +50,8 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "description": "This is a landing page created for the yearly event of the IT Department of MCKVIE, PULSE.EXE 2K23",
+  "description": "This is a landing page created for the yearly event of the IT Department of MCKVIE, PULSE.EXE 2K24",
   "main": "index.js",
-  "author": "Shubham Gupta",
+  "author": "Sk Mahammad Afzal , Arup Maity",
   "license": "ISC"
 }
