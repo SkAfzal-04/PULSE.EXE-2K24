@@ -4,7 +4,7 @@
     --main-yellow: #f79622;
     --main-orange: #FFB84C;
     --main-yellow-dark: #be7317;
-    --dark-1: #212433; /* a slightly darker and cooler shade than the original dark-1 */
+    --dark-1: #1c2341; /* a slightly darker and cooler shade than the original dark-1 */
     --dark-2: #2c2e36; /* a cooler shade similar to the original dark-2 */
     --dark-3: #363b46; /* a slightly darker and warmer shade than the original dark-3 */
     --main-grey: #828282;
@@ -30,7 +30,7 @@ body,
 button,
 input,
 textarea{
-    font-family: "Poppins",sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 a {
