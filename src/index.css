@@ -26,6 +26,10 @@ body{
     background-color: var(--dark-1);
 }
 
+body{
+    background-color: var(--dark-1);
+}
+
 body,
 button,
 input,

@@ -29,21 +29,21 @@ const About = () => {
                 <div className="round-cards">
                     <EventCard
                         roundNum="1"
-                        roundName="Apti-Quest"
+                        roundName="Apti-Alchemy"
                         subtitle="(All Registered Teams)"
                         icon={Quiz}
                         description="Answer 30 MCQ questions in 30 minutes based on Aptitude, Technical and General Knowledge."
                     ></EventCard>
                     <EventCard
                         roundNum="2"
-                        roundName="Picture-Perfect"
+                        roundName="Visual Voyage"
                         subtitle="(Top 20 teams from Round-1)"
                         icon={AudioVideo}
                         description="Answer 20 questions shown on the screen in 30 mins. But be quick! Each question only stays on the screen for 30 secs."
                     ></EventCard>
                     <EventCard
                         roundNum="3"
-                        roundName="Code-Odyssey"
+                        roundName="Code Crusade"
                         subtitle="(Top 5 teams from Round-2)"
                         icon={CodeHunt}
                         description="Solve your way through 4 given coding problems. Each problem unlocks the next problem."

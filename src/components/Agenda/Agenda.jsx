@@ -22,7 +22,7 @@ const Agenda = () => {
                 <div className="arrow-line"></div>
             </div>
             <div className="agenda-time">10:30 AM - 11:00 AM</div>
-            <div className="agenda-name">Apti-Quest</div>
+            <div className="agenda-name">Apti-Alchemy</div>
             30 minutes round based on Aptitude, Technical and General Knowledge.
         </div>
         <div className="agenda-text">
@@ -46,7 +46,7 @@ const Agenda = () => {
                 <div className="arrow-line"></div>
             </div>
             <div className="agenda-time">01:00 PM - 01:30 PM</div>
-            <div className="agenda-name">Picture-Perfect</div>
+            <div className="agenda-name">Visual Voyage</div>
             30 minutes round based on Audio-Visual Interative Session.
         </div>
         <div className="agenda-text">
@@ -62,7 +62,7 @@ const Agenda = () => {
                 <div className="arrow-line"></div>
             </div>
             <div className="agenda-time">02:10 PM - 03:30 PM</div>
-            <div className="agenda-name">Code-Odyssey</div>
+            <div className="agenda-name">Code Crusade</div>
             80 minutes round based on 4 given coding problems, where each problem unlocks the next problem.
         </div>
         <div className="agenda-text">

@@ -1,19 +1,19 @@
 import React, { useState, useEffect, useMemo } from "react";
 import "./Advisior.css";
 import member1 from "../../members/Sanjana Shaw.jpg";
-import member2 from "../../members/Anuska Kar.jpg";
-import member3 from "../../members/Pritha Biswas.jpg";
-import member4 from "../../members/Saikat Dey.jpg";
-import member5 from "../../members/Srijit Sarkar.jpg";
+import member2 from "../../members/Sourav Ghosh.jpg";
+import member3 from "../../members/Shounak Sarkar.jpeg";
+import member4 from "../../members/Preksha Rai.jpg";
+import member5 from "../../members/Nandini Mishra.jpg";
 
 const Advisior = () => {
   const membersArr = useMemo(
     () => [
       { id: 1, name: "Sanjana Shaw", image: member1, whatsappLink: "https://wa.me/+918240934380" },
-      { id: 2, name: "Anuska Kar", image: member2, whatsappLink: "https://wa.me/+919874702562" },
-      { id: 3, name: "Pritha Biswas", image: member3, whatsappLink: "https://wa.me/+916290615502" },
-      { id: 4, name: "Saikat Dey", image: member4, whatsappLink: "https://wa.me/+919434959513" },
-      { id: 5, name: "Srijit Sarkar", image: member5, whatsappLink: "https://wa.me/+919432902403" },
+      { id: 2, name: "Sourav Ghosh", image: member2, whatsappLink: "https://wa.me/+919123737575" },
+      { id: 3, name: "Shounak Sarkar", image: member3, whatsappLink: "https://wa.me/+918697941058" },
+      { id: 4, name: "Preksha Rai", image: member4, whatsappLink: "https://wa.me/+917003460684" },
+      { id: 5, name: "Nandini Mishra", image: member5, whatsappLink: "https://wa.me/+917044341668" },
     ],
     []
   );

@@ -16,10 +16,9 @@ const Contact = () => {
                         <span className="contact-heading">
                             Student In-Charges
                         </span>
-                        <div>Lalita Bhattacharya: +91 89815 11092</div>
-                        <div>Shubham Gupta: +91 96746 44518</div>
-                        <div>Subhodeep Neogi: +91 83370 81510</div>
-                        <div>Sreemoyee Chatterjee: +91 81000 65320</div>
+                        <div>Sreya Dhar: +91 9748375528</div>
+                        <div>Diptesh Ghosh: +91 7364949075</div>
+                        <div>Tiyasa Saha: +91 9433077890</div>
                     </div>
                     <div>
                         <span className="contact-heading">
