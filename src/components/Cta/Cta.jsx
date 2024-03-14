@@ -9,7 +9,7 @@ const Cta = () => {
                 <div className="cta-heading">See you all there!</div>
                 <div className="main-btn">
                     <a
-                        href="https://forms.gle/37vn6pdfGodQWmH57"
+                        href="https://forms.gle/vzjQRaXUKWnfaThG8"
                         target="_blank"
                         rel="noreferrer"
                     >

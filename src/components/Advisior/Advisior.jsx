@@ -5,6 +5,10 @@ import member2 from "../../members/Sourav Ghosh.jpg";
 import member3 from "../../members/Shounak Sarkar.jpeg";
 import member4 from "../../members/Preksha Rai.jpg";
 import member5 from "../../members/Nandini Mishra.jpg";
+import member6 from "../../members/Chayan Gupta.jpg";
+import member7 from "../../members/Semanti.JPG";
+import member8 from "../../members/Avantika Roy.jpg";
+import member9 from "../../members/Arijit Saha.jpeg";
 
 const Advisior = () => {
   const membersArr = useMemo(
@@ -14,6 +18,10 @@ const Advisior = () => {
       { id: 3, name: "Shounak Sarkar", image: member3, whatsappLink: "https://wa.me/+918697941058" },
       { id: 4, name: "Preksha Rai", image: member4, whatsappLink: "https://wa.me/+917003460684" },
       { id: 5, name: "Nandini Mishra", image: member5, whatsappLink: "https://wa.me/+917044341668" },
+      { id: 6, name: "Chayan Gupta", image: member6, whatsappLink: "https://wa.me/+919330066202" },
+      { id: 7, name: "Semanti Ghosh ", image: member7, whatsappLink: "https://wa.me/+919748662318" },
+      { id: 8, name: "Avantika Roy", image: member8, whatsappLink: "https://wa.me/+916290755133 " },
+      { id: 9, name: "Arijit Saha", image: member9, whatsappLink: "https://wa.me/+916295724564" },      
     ],
     []
   );

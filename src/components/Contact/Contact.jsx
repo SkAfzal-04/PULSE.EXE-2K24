@@ -16,9 +16,10 @@ const Contact = () => {
                         <span className="contact-heading">
                             Student In-Charges
                         </span>
-                        <div>Sreya Dhar: +91 9748375528</div>
-                        <div>Diptesh Ghosh: +91 7364949075</div>
-                        <div>Tiyasa Saha: +91 9433077890</div>
+                        <div>Bishnu Bhakat: +91 93308 09352</div>
+                        <div>Sreya Dhar: +91 97483 75528</div>
+                        <div>Sanchari Pandey: +91 97498 15573</div>
+                        <div>Hridhwesh Maity: +91 76880 85816</div>
                     </div>
                     <div>
                         <span className="contact-heading">

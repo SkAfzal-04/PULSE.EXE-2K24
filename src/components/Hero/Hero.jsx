@@ -69,7 +69,7 @@ const Hero = () => {
                 </div>
                 <div className="main-btn">
                     <a
-                        href="https://forms.gle/37vn6pdfGodQWmH57"
+                        href="https://forms.gle/vzjQRaXUKWnfaThG8"
                         target="_blank"
                         rel="noreferrer"
                     >

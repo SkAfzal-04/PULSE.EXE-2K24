@@ -54,7 +54,7 @@ const Navbar = () => {
           </div>
           <div className="navlink main-btn nav-btn" onClick={toggleMenu}>
             <a
-              href="https://forms.gle/37vn6pdfGodQWmH57"
+              href="https://forms.gle/vzjQRaXUKWnfaThG8"
               target="_blank"
               rel="noreferrer"
             >
