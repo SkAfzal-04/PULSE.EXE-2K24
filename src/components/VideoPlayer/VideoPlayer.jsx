@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactPlayer from 'react-player';
 import './VideoPlayer.css';
-import Video from "../../img/Intro-pulse2k23.mp4"
+import Video from "../../img/Intro-pulse2k24.mp4"
 
 class VideoPlayer extends Component {
   render() {
