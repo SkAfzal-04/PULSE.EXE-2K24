@@ -12,7 +12,7 @@ const Hero = () => {
     let interval;
 
     const startTimer = () => {
-        const countDownDate = new Date("April 10,2024 09:30:00").getTime();
+        const countDownDate = new Date("August 31,2024 09:30:00").getTime();
 
         interval = setInterval(() => {
             const now = new Date().getTime();
